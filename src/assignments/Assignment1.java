@@ -27,6 +27,7 @@ public class Assignment1 {
 		boolean married = true;
 		boolean notmarried = false;
 		System.out.println("Person's marital status: "+married+  "or" +notmarried);
+		
 		String occupation = "Software Engineer";
 		System.out.println("Person's occupation: "+occupation);
 		
